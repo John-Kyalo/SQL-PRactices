@@ -1,2 +1,3 @@
 # SQL-PRactices
-Queries to solve business Problems
+Advanced Queries to solve business Problems
+CTES and Window Functions
