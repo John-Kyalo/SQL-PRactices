@@ -1,4 +1,4 @@
 # SQL-PRactices
-Advanced Queries to solve business Problems
+From Basic to Advanced Queries, here is a bunch business problems solved via SQL Queries
 
-CTEs and Window Functions
+
